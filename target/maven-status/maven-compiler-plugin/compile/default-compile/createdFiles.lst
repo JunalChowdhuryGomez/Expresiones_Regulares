@@ -2,6 +2,11 @@ gui\Interfaz.class
 gui\Interfaz$1.class
 gui\Interfaz$4.class
 talc\expresiones_regulares\Expresiones_regulares.class
+gui\Interfaz$8.class
+gui\Interfaz$6.class
+model\EditarTextoEnArchivo.class
 gui\Interfaz$3.class
 model\ExpresionRegular.class
 gui\Interfaz$2.class
+gui\Interfaz$5.class
+gui\Interfaz$7.class

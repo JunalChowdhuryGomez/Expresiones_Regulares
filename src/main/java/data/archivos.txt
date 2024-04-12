@@ -1,8 +1,8 @@
-pueba.txt
+prueba_modificada.txt
 archi.docx
 presentacion2.pptx
 documento2.docx
-foto2.jpg
+foto7_m.jpg
 codigo2.java
 texto.txt
 tarea.pdf
